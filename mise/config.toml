@@ -1,0 +1,17 @@
+[tools]
+codex = "latest"
+difftastic = "latest"
+gh = "latest"
+go = "latest"
+hexyl = "latest"
+just = "latest"
+micro = "latest"
+node = "26.8.2"
+opencode = "latest"
+pi = "latest"
+python = "latest"
+rclone = "latest"
+rust = "latest"
+
+[settings.upgrade]
+auto_prune = false

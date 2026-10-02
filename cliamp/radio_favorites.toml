@@ -1,0 +1,7 @@
+[[station]]
+name = "Woolworths Radio"
+url = "https://arn-instore.streamguys1.com/wwr_007"
+country = "Australia"
+bitrate = 49
+codec = "AAC+"
+homepage = "https://www.iheart.com/live/woolworths-radio-9195/"
