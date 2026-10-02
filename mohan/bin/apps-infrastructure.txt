@@ -1,0 +1,30 @@
+# Explicitly-installed packages that are OS/desktop infrastructure rather than
+# user-facing apps or tools. Subtracted by apptools.py to isolate real choices.
+base
+base-devel
+btrfs-progs
+efibootmgr
+gst-plugin-pipewire
+intel-media-driver
+intel-ucode
+libpulse
+limine
+linux
+linux-firmware
+linux-omarchy
+linux-omarchy-headers
+mkinitcpio
+omarchy
+omarchy-keyring
+omarchy-settings
+pipewire
+pipewire-alsa
+pipewire-jack
+pipewire-pulse
+sof-firmware
+sudo
+tenacity
+thermald
+vpl-gpu-rt
+vulkan-intel
+zram-generator
