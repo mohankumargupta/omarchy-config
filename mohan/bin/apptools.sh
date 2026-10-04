@@ -12,4 +12,5 @@ explicit=${1:-explicit-apps.txt}
 baseline=${2:-apps-preinstalled.txt}
 infra=${3:-apps-infrastructure.txt}
 
-cut -f2 "$explicit" | grep -vFx -f "$baseline" -f "$infra" | sort -u
+cut -f2 "$explicit" | grep -vFx -f "$baseline" -f "$infra" | sort -u | tee apptools.txt
+

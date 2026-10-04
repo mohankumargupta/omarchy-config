@@ -169,11 +169,15 @@
 2026-09-19 09:22:15	linux-omarchy-headers
 2026-09-19 09:25:12	lsb-release
 2026-09-24 14:30:11	aether
-2026-09-24 14:30:11	mise-bin
-2026-09-25 09:39:48	voxtype-bin
 2026-09-27 19:57:57	networkmanager-openvpn
 2026-09-27 20:01:44	tree
 2026-09-27 21:27:11	openvpn
 2026-09-27 21:38:59	ipscan
 2026-10-02 07:09:51	b43-firmware
 2026-10-02 16:36:44	dotnet-sdk
+2026-10-02 19:21:47	unityhub
+2026-10-03 17:56:44	mise-bin
+2026-10-03 17:56:46	voxtype-bin
+2026-10-03 18:02:34	claude-code
+2026-10-04 17:19:54	nvm
+2026-10-04 17:22:56	cmake

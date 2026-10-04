@@ -1,0 +1,17 @@
+b43-firmware
+claude-code
+cmake
+dotnet-sdk
+firefox
+ipscan
+lsb-release
+micro
+networkmanager-openvpn
+nvm
+openvpn
+tensaku
+tigervnc
+tree
+unityhub
+voxtype-bin
+wget
