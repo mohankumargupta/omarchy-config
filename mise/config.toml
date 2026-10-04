@@ -1,4 +1,6 @@
 [tools]
+claude = "latest"
+cmake = "latest"
 codex = "latest"
 difftastic = "latest"
 gh = "latest"
